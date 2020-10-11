@@ -4,8 +4,7 @@ import styled from 'styled-components'
 const Footer = () => (
   <FooterWrap>
     <FooterText>
-      PSA #01 &middot;{' '}
-      <a href="http://andreizvonkov.com/">Bureau of Good Design</a>
+      <a href="http://andreizvonkov.com/">Andrei Zvonkov</a> &middot; {new Date().getFullYear()}
     </FooterText>
   </FooterWrap>
 )
