@@ -38,25 +38,29 @@ const principlesData = [
     id: 6,
     number: '6',
     title: 'Is Honest',
-    description: 'It does not make a product more innovative, powerful or valuable than it really is. It does not attempt to manipulate the consumer with promises that cannot be kept.',
+    description:
+      'It does not make a product more innovative, powerful or valuable than it really is. It does not attempt to manipulate the consumer with promises that cannot be kept.',
   },
   {
     id: 7,
     number: '7',
     title: 'Is Long-lasting',
-    description: 'It avoids being fashionable and therefore never appears antiquated. Unlike fashionable design, it lasts many years – even in today’s throwaway society.',
+    description:
+      'It avoids being fashionable and therefore never appears antiquated. Unlike fashionable design, it lasts many years – even in today’s throwaway society.',
   },
   {
     id: 8,
     number: '8',
     title: 'Is thorough Down to the Last Detail',
-    description: 'It does not make a product more innovative, powerful or valuable than it really is. It does not attempt to manipulate the consumer with promises that cannot be kept.',
+    description:
+      'Good design is detailed, it ensures that the visitors don’t have to waste their time and energy finding out little piece of information about the product. A good design conveys the information accurately to the users making sure all their common doubts are resolved.',
   },
   {
     id: 9,
     number: '9',
     title: 'Is Environmentally-friendly',
-    description: 'Design makes an important contribution to the preservation of the environment. It conserves resources and minimizes physical and visual pollution throughout the lifecycle of the product.',
+    description:
+      'Design makes an important contribution to the preservation of the environment. It conserves resources and minimizes physical and visual pollution throughout the lifecycle of the product.',
   },
   {
     id: 10,
